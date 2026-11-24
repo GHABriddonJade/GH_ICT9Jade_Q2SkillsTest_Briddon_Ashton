@@ -1,0 +1,22 @@
+body {
+    background-image: url(https://images.squarespace-cdn.com/content/v1/664c7ae50eea9c731b37e817/38df9671-1633-4828-b705-5972dadf6a57/OBMC+Quadrangle+2.jpg?format=1000w);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.form-group {
+    backdrop-filter: blur(8px);
+    text-align: center;
+}
+
+.portfolio-section {
+    background: rgba(255, 255, 255, 0.88);
+    backdrop-filter: blur(8px);
+    border-radius: 12px;
+    padding: 32px 40px;
+    max-width: 900px;
+    width: 100%;
+    text-align: left;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    
+}
